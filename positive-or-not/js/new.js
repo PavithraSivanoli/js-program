@@ -1,4 +1,4 @@
-var num1 = parseInt(prompt("Enter first number: "));
+var num1 = parseInt(prompt("Enter  number: "));
   var result;
 
     if (num1 >= 0) {
